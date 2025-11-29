@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "ac1": {
+      "name": "Roth IRA",
+      "stocks": [
+        {
+          "ticker": "AAPL",
+          "no_of_stocks": 50
+        },
+        {
+          "ticker": "MSFT",
+          "no_of_stocks": 50
+        }
+      ]
+    },
+    "ac2": {
+      "name": "401(k)",
+      "stocks": [
+        {
+          "ticker": "VFIAX",
+          "no_of_stocks": 100
+        },
+        {
+          "ticker": "VTI",
+          "no_of_stocks": 100
+        }
+      ]
+    },
+    "ac3": {
+      "name": "Individual Brokerage",
+      "stocks": [
+        {
+          "ticker": "TSLA",
+          "no_of_stocks": 50
+        },
+        {
+          "ticker": "AMZN",
+          "no_of_stocks": 50
+        }
+      ]
+    },
+    "ac4": {
+      "name": "HSA",
+      "stocks": [
+        {
+          "ticker": "VOO",
+          "no_of_stocks": 100
+        },
+        {
+          "ticker": "VWENX",
+          "no_of_stocks": 100
+        }
+      ]
+    }
+  }
+}
